@@ -18,7 +18,6 @@ body {
     height: 200px;
     width: 200px;
     margin: 0 auto;
-    border-radius: 50%;
     border: 5px solid black;
     box-sizing: border-box;
 }
@@ -28,11 +27,38 @@ body {
     
 }
 
+.red1 {
+    background-color: red;
+    border-radius: 50%;
+}
+
+.red2 {
+    background-color: red;
+    
+}
+
 .yellow {
     background-color: yellow;
+    border-radius: 50%;
 }
+.yellow1 {
+    background-color: yellow;
+}
+
+.yellow2 {
+    background-color: yellow;
+}
+
 
 .green {
     background-color: green;
   
+}
+.green1 {
+    background-color: green;
+  
+}
+.green2 {
+    background-color: green;
+    border-radius: 50%;  
 }
